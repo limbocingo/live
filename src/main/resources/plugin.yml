@@ -1,0 +1,14 @@
+main: com.github.limbocingo.live.Live
+version: 0.0.1
+api-version: 1.19
+
+name: Live
+description: See in real time a webpage.
+
+commands:
+  stream:
+    #permission: "live.stream"
+    permission-message: "You need the permission 'live.stream'."
+
+    description: "Stream a webpage."
+    usage: "/stream example.com"
