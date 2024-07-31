@@ -2,8 +2,8 @@
 Geta live view of a web page inside Minecraft.
 
 ## How it works? ⚙️
-Just execute ```/stream <webpage>``` and magically will
-appear a lot of maps and block at the position where you at showing the web page.
+Just execute ```/stream <webpage>``` and with magic will
+appear a lot of maps and blocks at your position showing the web page.
 
 ## Support 🍃
 Fork the project and send a pull request.
